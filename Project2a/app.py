@@ -11,8 +11,8 @@ import pandas as pd
 
  
 # Read OpenAI API key from environment variable
-#openai_api_key1 = "SSSsk-6TgZRe1vOsN88rCNFE30T3BlbkFJmess3WeYcp59Lauggu" 
-openai_api_key1 = "ABCsk-sT3zaJOY4nXRXGcM7GEuT3BlbkFJbsbi6692LqE4DuWdtO" 
+#openai_api_key1 = "SSSsk-6TgZRe1vOsNFJmess3WeYcp59Lauggu" 
+openai_api_key1 = "ABCsk-sT3zaJOY4nXRXbsbi6692LqE4DuWdtO" 
    
 filename="AutoIn.csv"
 df = pd.read_csv(filename)
