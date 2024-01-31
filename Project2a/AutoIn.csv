@@ -1,0 +1,101 @@
+Incident Number,Short Description,Category,Close Reason,Environment,Urgency,Date
+INC10001,Sales forecast spreadsheet is READ ONLY.,database,Closed/Resolved by Caller,Development,1,22-01-2023
+INC10002,Java App Server,hardware,Solved Remotely (Work Around),Test,2,22-01-2023
+INC10003,Deploy new Cisco Catalyst 4500,software,Solved (Work Around),Test,3,22-01-2023
+INC10004,Change VLAN on a Cisco switchport,database,Solved (Permanently),Test,3,22-01-2023
+INC10005,Please reboot ApplicationServerHelpdesk,network,Solved Remotely (Work Around),Test,3,22-01-2023
+INC10006,Decommission server,inquiry,Solved (Work Around),Test,1,22-01-2023
+INC10007,Another Java Application Server change         ,hardware,Solved (Permanently),Development,3,22-01-2023
+INC10008,Update ownership of Blackberry service,inquiry,Closed/Resolved by Caller,Production,2,22-01-2023
+INC10009,Unable to access team file share.,inquiry,Solved Remotely (Work Around),Production,3,22-01-2023
+INC10010,Sales forecast spreadsheet is READ ONLY.,database,Not Solved (Too Costly),Development,2,22-01-2023
+INC10011,Update /etc/network/interfaces to include name servers 8.8.8.8 & 8.8.4.4,software,Not Solved (Not Reproducible),Test,3,22-01-2023
+INC10012,Reboot Windows Server,inquiry,Solved (Permanently),Test,3,22-01-2023
+INC10013,Upgrade database server - bond_trading_uk to Postgres SQL,network,Closed/Resolved by Caller,Production,1,22-01-2023
+INC10014,Request for a new service.,network,Solved (Permanently),Production,3,23-01-2023
+INC10015,Update /etc/network/interfaces to include name servers 8.8.8.8 & 8.8.4.4,database,Not Solved (Too Costly),Production,3,23-01-2023
+INC10016,Increase db_block_buffers from 5000 to 7500,database,Solved (Permanently),Development,1,23-01-2023
+INC10017,Update default support group on all Oracle CI's to Database group,software,Solved (Permanently),Production,2,23-01-2023
+INC10018,Performance problems with email.,database,Solved (Permanently),Test,1,23-01-2023
+INC10019,Rollback Oracle Version,inquiry,Not Solved (Too Costly),Production,1,23-01-2023
+INC10020,Java App Server,inquiry,Closed/Resolved by Caller,Development,1,23-01-2023
+INC10021,Update ownership information of database server - bond_trading_uk,hardware,Not Solved (Not Reproducible),Development,3,23-01-2023
+INC10022,A failed RAID controller card needs to be replaced on PSORA1,database,Closed/Resolved by Caller,Test,1,24-01-2023
+INC10023,Java Application Server change,hardware,Solved (Work Around),Test,1,24-01-2023
+INC10024,Decommission server,database,Closed/Resolved by Caller,Development,1,24-01-2023
+INC10025,Upgrade database server - bond_trading_uk to Postgres SQL,database,Not Solved (Not Reproducible),Development,3,24-01-2023
+INC10026,Increase db_block_buffers from 5000 to 7500,hardware,Solved Remotely (Work Around),Test,1,25-01-2023
+INC10027,The SAP HR application is not accessible.,inquiry,Solved Remotely (Work Around),Test,3,25-01-2023
+INC10028,Please reboot ApplicationServerPeopleSoft,hardware,Not Solved (Not Reproducible),Production,1,25-01-2023
+INC10029,Switch Sales over to the new 555 prefix         ,software,Closed/Resolved by Caller,Test,2,25-01-2023
+INC10030,Update /etc/network/interfaces to include name servers 8.8.8.8 & 8.8.4.4,software,Not Solved (Not Reproducible),Development,3,25-01-2023
+INC10031,Switch Sales over to the new 555 prefix         ,hardware,Not Solved (Too Costly),Test,1,25-01-2023
+INC10032,Reboot Windows Server,network,Not Solved (Not Reproducible),Production,1,25-01-2023
+INC10033,Performance problems with email.,software,Not Solved (Not Reproducible),Test,3,25-01-2023
+INC10034,Need help with Remedy. Can we configure UI?,software,Closed/Resolved by Caller,Test,2,25-01-2023
+INC10035,Put another 100 Gb drive on the 2nd Floor Server         ,network,Not Solved (Not Reproducible),Development,1,25-01-2023
+INC10036,Upgrade OWA-SD-01 to MS Windows Server 2016,inquiry,Solved (Work Around),Test,3,25-01-2023
+INC10037,Rain is leaking on main DNS Server.,hardware,Solved Remotely (Work Around),Production,2,25-01-2023
+INC10038,Install new Cisco,database,Solved Remotely (Work Around),Development,3,25-01-2023
+INC10039,Unix update,network,Not Solved (Not Reproducible),Production,1,25-01-2023
+INC10040,Add network switch to cabinet,network,Solved Remotely (Work Around),Development,3,26-01-2023
+INC10041,Java App Server,database,Not Solved (Not Reproducible),Development,3,26-01-2023
+INC10042,SAP Sales app is not accessible.,database,Closed/Resolved by Caller,Production,1,26-01-2023
+INC10043,Upgrade MySql 5.6 to 5.7,database,Solved (Permanently),Production,2,26-01-2023
+INC10044,Upgrade Tomcat server to 4.0,network,Not Solved (Not Reproducible),Test,3,26-01-2023
+INC10045,Unable to access team file share.,database,Closed/Resolved by Caller,Production,3,26-01-2023
+INC10046,The SAP HR application is not accessible.,inquiry,Solved (Permanently),Test,2,26-01-2023
+INC10047,Unix update,network,Solved Remotely (Work Around),Test,1,26-01-2023
+INC10048,Update /etc/network/interfaces to include name servers 8.8.8.8 & 8.8.4.4,inquiry,Not Solved (Not Reproducible),Development,3,26-01-2023
+INC10049,Performance problems with wifi.,inquiry,Solved (Work Around),Development,1,26-01-2023
+INC10050,Update default support group on all Oracle CI's to Database group,database,Solved (Work Around),Test,2,26-01-2023
+INC10051,Request for a new service.,software,Solved Remotely (Work Around),Test,2,26-01-2023
+INC10052,New version of Blackberry service,network,Solved (Permanently),Production,2,26-01-2023
+INC10053,R&D wants to know what it'd cost to switch them over to Linux desktops         ,hardware,Not Solved (Not Reproducible),Test,2,26-01-2023
+INC10054,Upgrade NY RAC to Oracle 12c,inquiry,Not Solved (Not Reproducible),Development,2,26-01-2023
+INC10055,Install new Cisco,database,Closed/Resolved by Caller,Development,1,26-01-2023
+INC10056,Increase db_block_buffers from 5000 to 7500,software,Closed/Resolved by Caller,Production,3,27-01-2023
+INC10057,Network storage unavailable.,hardware,Solved Remotely (Work Around),Development,2,28-01-2023
+INC10058,Install new Cisco,hardware,Solved (Work Around),Production,1,29-01-2023
+INC10059,Change default router on unix201,network,Solved (Work Around),Test,2,30-01-2023
+INC10060,Unix update,inquiry,Not Solved (Too Costly),Development,2,31-01-2023
+INC10061,Update ownership of Blackberry service,inquiry,Solved Remotely (Work Around),Development,2,31-01-2023
+INC10062,Rain is leaking on main DNS Server.,inquiry,Closed/Resolved by Caller,Production,1,31-01-2023
+INC10063,Update /etc/network/interfaces to include name servers 8.8.8.8 & 8.8.4.4,software,Solved Remotely (Work Around),Development,1,31-01-2023
+INC10064,Upgrade to Oracle 11i,database,Solved (Permanently),Test,2,04-02-2023
+INC10065,Upgrade database server - bond_trading_uk to Postgres SQL,inquiry,Closed/Resolved by Caller,Development,2,05-02-2023
+INC10066,Upgrade NY RAC to Oracle 12c,database,Solved (Permanently),Development,2,05-02-2023
+INC10067,Please reboot ApplicationServerPeopleSoft,inquiry,Closed/Resolved by Caller,Production,3,05-02-2023
+INC10068,Roll back Windows SP2 patch,database,Solved (Work Around),Production,3,05-02-2023
+INC10069,Update location of Blackberry service,database,Solved (Work Around),Test,3,05-02-2023
+INC10070,Network storage unavailable.,software,Not Solved (Not Reproducible),Test,1,05-02-2023
+INC10071,Add network switch to cabinet,inquiry,Solved Remotely (Work Around),Production,3,05-02-2023
+INC10072,Upgrade Tomcat server to 4.0,hardware,Solved (Permanently),Production,2,05-02-2023
+INC10073,Upgrade NY RAC to Oracle 12c,database,Solved (Permanently),Production,3,05-02-2023
+INC10074,Decommission server,database,Solved (Work Around),Test,3,05-02-2023
+INC10075,Upgrade to Oracle 11i,software,Solved Remotely (Work Around),Test,1,05-02-2023
+INC10076,Increase db_block_buffers from 5000 to 7500,inquiry,Not Solved (Not Reproducible),Production,2,05-02-2023
+INC10077,New version of Blackberry service,software,Not Solved (Too Costly),Test,3,05-02-2023
+INC10078,Please reboot AS400,hardware,Solved Remotely (Work Around),Test,1,05-02-2023
+INC10079,Another Java Application Server change         ,software,Solved (Permanently),Production,2,05-02-2023
+INC10080,New version of Blackberry service,inquiry,Solved (Work Around),Development,2,05-02-2023
+INC10081,Unable to post content on a Wiki page.,inquiry,Solved (Work Around),Development,3,05-02-2023
+INC10082,Upgrade to Oracle 11i,database,Not Solved (Not Reproducible),Production,2,06-02-2023
+INC10083,Switch Sales over to the new 555 prefix         ,network,Closed/Resolved by Caller,Test,1,06-02-2023
+INC10084,Add network switch to cabinet,hardware,Not Solved (Too Costly),Test,3,06-02-2023
+INC10085,Update ownership of Blackberry service,hardware,Not Solved (Too Costly),Production,3,06-02-2023
+INC10086,Please reboot ApplicationServerPeopleSoft,hardware,Solved Remotely (Work Around),Development,1,06-02-2023
+INC10087,Put another 100 Gb drive on the 2nd Floor Server         ,hardware,Not Solved (Too Costly),Development,1,06-02-2023
+INC10088,Update location of Blackberry service,network,Solved Remotely (Work Around),Production,2,06-02-2023
+INC10089,Upgrade Tomcat server to 4.0,inquiry,Closed/Resolved by Caller,Production,3,06-02-2023
+INC10090,Performance problems with wifi.,inquiry,Not Solved (Not Reproducible),Production,2,06-02-2023
+INC10091,Request for a new service.,network,Solved (Permanently),Production,1,06-02-2023
+INC10092,SAP Materials Management is slow or there is an outage.,software,Not Solved (Not Reproducible),Production,2,06-02-2023
+INC10093,Need to add more memory to laptop.,software,Solved (Work Around),Development,2,06-02-2023
+INC10094,Increase db_block_buffers from 5000 to 7500,hardware,Not Solved (Not Reproducible),Test,2,06-02-2023
+INC10095,R&D wants to know what it'd cost to switch them over to Linux desktops         ,inquiry,Solved Remotely (Work Around),Development,2,06-02-2023
+INC10096,Change VLAN on a Cisco switchport,hardware,Solved (Permanently),Test,3,06-02-2023
+INC10097,Change VLAN on a Cisco switchport,database,Solved (Work Around),Development,2,06-02-2023
+INC10098,Update ownership of Blackberry service,network,Not Solved (Not Reproducible),Test,2,06-02-2023
+INC10099,Upgrade MySql 5.6 to 5.7,network,Solved Remotely (Work Around),Production,3,06-02-2023
+INC10100,Performance problems with wifi.,inquiry,Not Solved (Too Costly),Development,3,06-02-2023
