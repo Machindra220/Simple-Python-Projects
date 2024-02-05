@@ -7,8 +7,20 @@
 	<li>
 	<h2>API Key is integrated with Python and Streamlit Open-Source Library</h2>
 	</li>
+	<li>
+	<h2>Python Libraries used: streamlit, Pandas, Langchain, Tabulate, openai.</h2>
+	</li>
 </ul>
 
+<p>&nbsp;</p>
+<h3><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14px"><strong>Problems faced while implementing Use Case:</strong></span></span></h3>
+
+<ul>
+	<li><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14px"><strong>Selection of OpenAI Service:</strong> We are not sure which AI Service to use, because every service has it's pros and cons.</span></span></li>
+	<li><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14px"><strong>Selection of programming stack:</strong> In our team, everyone is not familiar with programming. So, that is one hurdle for us while starting project.</span></span></li>
+	<li><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14px"><strong>Collection of Mock Data:</strong> Organizations are not allowing to use their data for the use case as it is interacting with AI Service.</span></span></li>
+	
+</ul>
 <p>&nbsp;</p>
 
 <h2><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14px"><strong>Here are the steps to run Application with a Python project using the specified binaries:</strong></span></span></h2>
@@ -66,6 +78,7 @@ from langchain.chat_models import ChatOpenAI
 from langchain_experimental.agents import create_pandas_dataframe_agent
 from langchain.agents.agent_types import AgentType
 from tabulate import tabulate
+import openai
 
 # Page title
 st.set_page_config(page_title='ChatGPT for Incident Analysis')
